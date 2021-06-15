@@ -1,0 +1,23 @@
+
+.box{
+	min-height: 350px;
+	margin: 20px 0;
+}
+.red{
+	background-color: red;
+}
+.green{
+	background-color: green;
+}
+.blue{
+	background-color: blue;
+}
+.ash{
+	background-color: silver;
+}
+.lime{
+	background-color: lime;
+}
+.orange{
+	background-color: orange;
+}
